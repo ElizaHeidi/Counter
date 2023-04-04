@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    /* border: 2px solid black; */
+}
+
+.btn-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid black; */
+}
+
+p {
+    font-size: 48px;
+    font-family: 'Verdana'; 
+}
+
+h1 {
+    font-family: 'Verdana';
+    margin-bottom: 0;
+}
+
+button {
+    margin: 2px;
+}
